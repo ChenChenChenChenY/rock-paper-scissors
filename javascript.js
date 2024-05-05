@@ -60,7 +60,7 @@ function playGames () {
     }else if(humanScore<computerScore){
         console.log('you LOSE!')
     }else{
-        console.log("it's a TIE!")
+        console.log("it's a TIE !")
     }
 }
 
